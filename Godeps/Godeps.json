@@ -1,0 +1,56 @@
+{
+  "ImportPath": "github.com/wistia/oauth2_proxy",
+  "GoVersion": "go1.6",
+  "GodepVersion": "v74",
+  "Deps": [
+    {
+      "ImportPath": "github.com/18F/hmacauth",
+      "Rev": "9232a6386b737d7d1e5c1c6e817aa48d5d8ee7cd"
+    },
+    {
+      "ImportPath": "github.com/BurntSushi/toml",
+      "Rev": "3883ac1ce943878302255f538fce319d23226223"
+    },
+    {
+      "ImportPath": "github.com/bitly/go-simplejson",
+      "Rev": "3378bdcb5cebedcbf8b5750edee28010f128fe24"
+    },
+    {
+      "ImportPath": "github.com/kr/pretty",
+      "Comment": "go.weekly.2011-12-22-24-gf31442d",
+      "Rev": "f31442d60e51465c69811e2107ae978868dbea5c"
+    },
+    {
+      "ImportPath": "github.com/kr/text",
+      "Rev": "6807e777504f54ad073ecef66747de158294b639"
+    },
+    {
+      "ImportPath": "github.com/mreiferson/go-options",
+      "Rev": "33795234b6f327f1be2d78a541893012362a4e06"
+    },
+    {
+      "ImportPath": "github.com/bmizerany/assert",
+      "Rev": "e17e99893cb6509f428e1728281c2ad60a6b31e3"
+    },
+    {
+      "ImportPath": "gopkg.in/fsnotify.v1",
+      "Rev": "96c060f6a6b7e0d6f75fddd10efeaca3e5d1bcb0"
+    },
+    {
+      "ImportPath": "golang.org/x/oauth2",
+      "Rev": "04e1573abc896e70388bd387a69753c378d46466"
+    },
+    {
+      "ImportPath": "golang.org/x/oauth2/google",
+      "Rev": "04e1573abc896e70388bd387a69753c378d46466"
+    },
+    {
+      "ImportPath": "google.golang.org/api/admin/directory/v1",
+      "Rev": "a5c3e2a4792aff40e59840d9ecdff0542a202a80"
+    },
+    {
+      "ImportPath": "google.golang.org/appengine",
+      "Rev": "150dc57a1b433e64154302bdc40b6bb8aefa313a"
+    }
+  ]
+}
